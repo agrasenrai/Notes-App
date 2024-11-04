@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="color_primary">#006782</color>
+    <color name="color_primary_variant">#004F67</color>
+    <color name="color_secondary">#4A6267</color>
+    <color name="color_secondary_variant">#354B4F</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FAFAFA</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_tertiary">#999999</color>
+    <color name="ripple_color">#1F000000</color>
+    <color name="stroke_color">#1F000000</color>
+    <color name="card_background_1">#E8EAF6</color>  <!-- Light indigo -->
+    <color name="card_background_2">#F3E5F5</color>  <!-- Light purple -->
+    <color name="card_background_3">#E3F2FD</color>  <!-- Light blue -->
+    <color name="card_background_4">#E0F7FA</color>  <!-- Light cyan -->
+    <color name="card_background_5">#E8F5E9</color>  <!-- Light green -->
+    <color name="card_background_6">#FFEBEE</color>  <!-- Light pink -->
+    <color name="card_background_7">#E1BEE7</color>  <!-- Light lavender -->
+    <color name="card_background_8">#FFF8E1</color>  <!-- Light beige -->
+    <color name="card_background_9">#FFCCBC</color>  <!-- Soft peach -->
+    <color name="card_background_10">#BBDEFB</color>  <!-- Pale blue -->
+    <color name="card_background_11">#81D4FA</color>  <!-- Soft sky blue -->
+    <color name="card_background_12">#FFF59D</color>  <!-- Bright yellow -->
+    <color name="card_background_13">#FFABAB</color>  <!-- Light coral -->
+    <color name="card_background_14">#F5F5F5</color>  <!-- Light gray -->
+    <color name="card_background_15">#BDBDBD</color>  <!-- Dark gray -->
+
+
+
+
+</resources>
